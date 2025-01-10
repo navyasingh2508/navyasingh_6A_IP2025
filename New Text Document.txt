@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="pink">
+<img src="C:\Users\Lenovo\OneDrive\Desktop\prints\ishwetaNavya.jpg"
+<p align="centre"><del>delete</del>
+<a href=amazon.com>Click to open amazon</a>
+<hr>
+<p align="centre"><h1>My grandparents</h1>
